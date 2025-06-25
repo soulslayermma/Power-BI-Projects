@@ -53,13 +53,6 @@ This dashboard visualizes and explores sales data across regions, categories, an
 
 ---
 
-## 🖼️ Screenshots
-
-| KPI Cards & Trend | Profit by Sub-Category |
-|-------------------|------------------------|
-| ![Dashboard](screenshots/dashboard_overview.png) | ![Profit Sub-Category](screenshots/profit_by_subcategory.png) |
-
----
 
 ## 🗂️ Files
 
