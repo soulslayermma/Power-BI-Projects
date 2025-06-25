@@ -51,17 +51,6 @@ This dashboard visualizes and explores sales data across regions, categories, an
 - Discontinue or reposition products with persistent low demand  
 - Capitalize on seasonal trends with planned promotions in high-sales periods
 
----
-
-
-## 🗂️ Files
-
-- `GlobalMart_Sales_Dashboard.pbix` — Full Power BI dashboard
-- `screenshots/` — Key visuals used in this README
-- `README.md` — Case study overview (you are here)
-
----
-
 
 ## 📌 Tags
 
